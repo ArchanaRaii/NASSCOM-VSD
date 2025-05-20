@@ -1,4 +1,4 @@
-**Getting Familiar with open source EDA tools**
+![syn_netlist](https://github.com/user-attachments/assets/e4dbb2e3-e291-4f6a-89f7-69c1b9d0f381)**Getting Familiar with open source EDA tools**
 
 - **Sky_L1_openLANE Directory structure in detail**
 
@@ -41,7 +41,16 @@ The floor plan switches located in openlane/configurations/README.md
 ![fp_variables](https://github.com/user-attachments/assets/620cd407-b897-4ce7-ad21-cd82f3638169)
 Default parameters set for floorplan
 ![set_variables](https://github.com/user-attachments/assets/1ce1aaae-8089-450d-90ee-2699521b7f33)
-running command `run_floorplan`
+Finally running command `run_floorplan`.
+![view_def](https://github.com/user-attachments/assets/b549d895-1a0b-4ef3-885e-845c1a3fbab3)
+Using the following data we can calculate the area if DIE
+![file_def](https://github.com/user-attachments/assets/e6887a3e-63e4-4f9b-9ab8-54d09e55cff5)
+
+To see actual layout after floorplan is done using magic
+
+
+
+
 
 
 
