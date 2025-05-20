@@ -49,8 +49,8 @@ Using the following data we can calculate the area if DIE
 To see actual layout after floorplan is done using magic:
 ![layout](https://github.com/user-attachments/assets/25947269-1039-41a6-9806-cb5b8d306072)
 
-
-- **SKY_L6 - Steps to run floorplan using openlane**
+**SKY130_D2_SK2 - Library Binding and Placement**
+- **SKY_L5 - Congestion aware placement using RePlAce**
 Doing placement by running command run_placement
 Following image is post placement design ensuring the standard cells are in standartial rows.
 ![palcement_ss](https://github.com/user-attachments/assets/341c1b7e-eb7d-46de-8f34-70b8f23f1d76)
