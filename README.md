@@ -1,4 +1,4 @@
-![syn_netlist](https://github.com/user-attachments/assets/e4dbb2e3-e291-4f6a-89f7-69c1b9d0f381)**Getting Familiar with open source EDA tools**
+**Getting Familiar with open source EDA tools**
 
 - **Sky_L1_openLANE Directory structure in detail**
 
