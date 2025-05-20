@@ -22,4 +22,7 @@ layer and via level information using command `less merged.lef`
 
 - **Sky_L4-OpenLANE Project Git Link Description**
 - **Sky_L5 Steps to characterize synthesis results**
+  After running the command `run_syntheis`, flop ratio is calculated by taking total no of flops / total no of cells = 1613 / 14876 = 0.1084 i.e 10.84%
+  ![ratio_flop](https://github.com/user-attachments/assets/297b1b57-cbbc-4e53-a775-ca8ed02596f8)
+
 
