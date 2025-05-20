@@ -70,6 +70,7 @@ Following image is post placement design ensuring the standard cells are in stan
 
 -**SKY_L5 - Lab introduction to Magic and steps to load Sky130 tech-rules**
 ![mag_ss](https://github.com/user-attachments/assets/8923ac84-3ec0-48a5-87b4-1c00d0e8cb4e)
+![ss_cifseeVIA2](https://github.com/user-attachments/assets/b39aa1de-04aa-43f4-bf9c-e450c66da5e5)
 
 
 
