@@ -58,7 +58,12 @@ Following image is post placement design ensuring the standard cells are in stan
 **Sky130 Day 3 - Design library cell using Magic Layout and ngspice characterization**
 **SKY130_D3_SK1 - Labs for CMOS inverter ngspice simulations**
 - **SKY_L5 - Lab steps to git clone vsdstdcelldesign**
-- ![spice](https://github.com/user-attachments/assets/33d00592-ff40-45bc-8036-bdf72d27c553)
+![spice](https://github.com/user-attachments/assets/33d00592-ff40-45bc-8036-bdf72d27c553)
+
+**SKY130_D3_SK2 - Inception of Layout and CMOS fabrication process**
+- **SKY_L8 - Lab introduction to Sky130 basic layers layout and LEF using inverter**
+![spice1](https://github.com/user-attachments/assets/3b5031ec-4a78-4f14-b09d-5812efbe7496)
+
 
 
 
