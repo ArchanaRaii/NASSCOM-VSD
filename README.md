@@ -68,6 +68,10 @@ Following image is post placement design ensuring the standard cells are in stan
 - **SKY_L1 - Lab steps to create final SPICE deck using Sky130 tech**
 ![spicee_1](https://github.com/user-attachments/assets/947c8cde-c40a-4d57-a90c-d6acef911aae)
 
+-**SKY_L5 - Lab introduction to Magic and steps to load Sky130 tech-rules**
+![mag_ss](https://github.com/user-attachments/assets/12435c9d-92f4-4d60-8ada-918a12f4e9cd)
+
+
 
 
 
