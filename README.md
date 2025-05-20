@@ -1,4 +1,4 @@
-**Getting Familiar with open source EDA tools**
+![image](https://github.com/user-attachments/assets/74b4d851-4925-4fe2-b8b4-048527a8c1a2)**Getting Familiar with open source EDA tools**
 
 - **Sky_L1_openLANE Directory structure in detail**
 
@@ -28,6 +28,16 @@ layer and via level information using command `less merged.lef`
   ![syn_netlist](https://github.com/user-attachments/assets/0377e243-34d8-4705-b98f-e52c483c898c)
   All the reports generated
   ![report_timing](https://github.com/user-attachments/assets/5560504b-f629-4e09-b3c9-3a46f9fd10e8)
+
+
+  **Sky130 Day 2 - Good floorplan vs bad floorplan and introduction to library cells**
+
+  **SKY130_D2_SK1 - Chip Floor planning considerations**
+
+  - **SKY_L6 - Steps to run floorplan using openlane**
+    The floor plan switches located in openlane/configurations/README.md
+    ![fp_variables](https://github.com/user-attachments/assets/620cd407-b897-4ce7-ad21-cd82f3638169)
+
 
 
 
