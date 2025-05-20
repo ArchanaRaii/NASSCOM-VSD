@@ -39,6 +39,9 @@ All the reports generated
   
 The floor plan switches located in openlane/configurations/README.md
 ![fp_variables](https://github.com/user-attachments/assets/620cd407-b897-4ce7-ad21-cd82f3638169)
+Default parameters set for floorplan
+![set_variables](https://github.com/user-attachments/assets/1ce1aaae-8089-450d-90ee-2699521b7f33)
+
 
 
 
