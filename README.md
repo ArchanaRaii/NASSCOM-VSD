@@ -46,7 +46,9 @@ Finally running command `run_floorplan`.
 Using the following data we can calculate the area if DIE
 ![file_def](https://github.com/user-attachments/assets/e6887a3e-63e4-4f9b-9ab8-54d09e55cff5)
 
-To see actual layout after floorplan is done using magic
+To see actual layout after floorplan is done using magic:
+![layout](https://github.com/user-attachments/assets/25947269-1039-41a6-9806-cb5b8d306072)
+
 
 
 
