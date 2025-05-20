@@ -8,7 +8,7 @@ The openlane_working_dir contains pdks,openlane. We are using skywater sky130A a
 **Sky_L1_openLANE Design Preparation Step**
 
 We are suing docker in open lane for design preparation using command 
-prep -design picorv32a
+`prep -design picorv32a`
 ![docker_ss](https://github.com/user-attachments/assets/40c58089-4978-4ee5-a98d-f6defbeed5bb)
 A run directory is created
 ![run_directory](https://github.com/user-attachments/assets/98ed03c4-c941-40f4-b511-1c0acd4d89f3)
