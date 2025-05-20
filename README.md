@@ -55,6 +55,13 @@ Doing placement by running command run_placement
 Following image is post placement design ensuring the standard cells are in standartial rows.
 ![palcement_ss](https://github.com/user-attachments/assets/341c1b7e-eb7d-46de-8f34-70b8f23f1d76)
 
+**Sky130 Day 3 - Design library cell using Magic Layout and ngspice characterization**
+**SKY130_D3_SK1 - Labs for CMOS inverter ngspice simulations**
+- **SKY_L5 - Lab steps to git clone vsdstdcelldesign**
+- ![spice](https://github.com/user-attachments/assets/33d00592-ff40-45bc-8036-bdf72d27c553)
+
+
+
 
 
 
