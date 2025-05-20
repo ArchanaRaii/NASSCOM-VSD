@@ -64,6 +64,11 @@ Following image is post placement design ensuring the standard cells are in stan
 - **SKY_L8 - Lab introduction to Sky130 basic layers layout and LEF using inverter**
 ![spice1](https://github.com/user-attachments/assets/3b5031ec-4a78-4f14-b09d-5812efbe7496)
 
+**SKY130_D3_SK3 - Sky130 Tech File Labs**
+- **SKY_L1 - Lab steps to create final SPICE deck using Sky130 tech**
+![spicee_1](https://github.com/user-attachments/assets/947c8cde-c40a-4d57-a90c-d6acef911aae)
+
+
 
 
 
